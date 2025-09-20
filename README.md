@@ -1,4 +1,4 @@
-This project consists of a single Jupyter Notebook that explores a small heart disease dataset and builds several classification models, including 
+This project consists of a single Jupyter Notebook that explores a small heart disease dataset and builds several classification models, including:
 - Logistic Regression,
 - K-Nearest Neighbors (KNN),
 - Support Vector Machine (SVM),
